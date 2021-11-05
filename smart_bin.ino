@@ -5,9 +5,9 @@
 // Tested on 17 September 2021
 // ---------------------------------------------------------------- //
 
-#define pinLow 4 //attach pin D4 Arduino to LED Green
-#define pinMid 5 //attach pin D5 Arduino to LED Yellow
-#define pinHigh 6 //attach pin D6 Arduino to LED Red
+#define pinLow 9 //attach pin D9 Arduino to LED Green
+#define pinMid 10 //attach pin D10 Arduino to LED Yellow
+#define pinHigh 11 //attach pin D11 Arduino to LED Red
 #define echoPin 2 // attach pin D2 Arduino to pin Echo of HC-SR04
 #define trigPin 3 //attach pin D3 Arduino to pin Trig of HC-SR04
 
