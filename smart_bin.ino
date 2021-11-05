@@ -1,9 +1,8 @@
 // ---------------------------------------------------------------- //
-// Arduino Ultrasoninc Sensor HC-SR04
-// Re-writed by Arbi Abdul Jabbaar
-// Using Arduino IDE 1.8.7
+// Smart Bin using Ultrasoninc Sensor HC-SR04
+// written by Asiah Sallehuddin
 // Using HC-SR04 Module
-// Tested on 17 September 2019
+// Tested on 17 September 2021
 // ---------------------------------------------------------------- //
 
 #define pinLow 4 //attach pin D4 Arduino to LED Green
