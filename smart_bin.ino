@@ -22,8 +22,8 @@ void setup() {
   pinMode(pinHigh, OUTPUT); //Sets the pinHigh as an OUTPUT
   pinMode(echoPin, INPUT); // Sets the echoPin as an INPUT
   Serial.begin(9600); // // Serial Communication is starting with 9600 of baudrate speed
-  Serial.println("Ultrasonic Sensor HC-SR04 Test"); // print some text in Serial Monitor
-  Serial.println("with Arduino UNO R3");
+  Serial.println("Smart Bin"); // print some text in Serial Monitor
+  Serial.println("By Asiah");
 
   blinkled(3,500);
 }
